@@ -2,7 +2,7 @@
 // let a = [4, 3, 17, 10, 11];
 // it should print 14
 
-let a = [4, 3, 17, 10, 11, 12];
+let a = [4, 3, 17, 10, 11, 12 , 13, 18];
 let n = 0;
 
 for (let i = 0; i < a.length; i++) {
