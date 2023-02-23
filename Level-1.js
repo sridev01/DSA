@@ -11,3 +11,14 @@ for (let i = 0; i < a.length; i++) {
   }
 }
 console.log(n);
+
+
+
+
+let sum = 0;
+
+for (let i = 0; i < k; i++) {
+  sum += arr[i];
+}
+
+let
